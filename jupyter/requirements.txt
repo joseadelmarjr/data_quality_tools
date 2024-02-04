@@ -1,2 +1,10 @@
+#Profiling dos dados
 ydata-profiling==4.6.4
+
+#great Expectations
 great_expectations==0.18.8
+
+#PyDeequ
+pyspark==3.5.0
+pydeequ==1.2.0
+python-dotenv==1.0.1
