@@ -1,0 +1,2 @@
+ydata-profiling==4.6.4
+great_expectations==0.18.8
